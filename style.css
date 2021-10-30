@@ -1,0 +1,15 @@
+h1 {
+    font-size: 100%;
+    font-weight: normal;
+}
+blockquote {
+    font-size: 150%;
+    font-weight: bold;
+}
+.author {
+    display: block;
+    font-style: italic;
+    font-size: 80%;
+    color: grey;
+    font-weight: normal;
+}
